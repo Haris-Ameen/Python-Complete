@@ -5,6 +5,6 @@ Python is the most popular and most in-demand skill in 2020
 After completing the Python-Complete you will be able to start a career in Artificial Intelligence , Machine Learning , Deep learning , Data science , Data Analyst and many more 
 Python is the best way to start a career so don't waste your time and start learning Python Because It's easy to learn.
 ### Created By Haris Amin 
-### phone no: +92 3321127718
-### Email: 17cs28@quest.edu.pk
+### phone no: +44 7454392199
+### Email: harisameen1234"gmail.com
 ### Github : https://github.com/Haris-Ameen/ 
